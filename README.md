@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript frameworks
 - 🤔 I’m looking for a job in Paris
 - 💬 Ask me about anything 
-- 📫 How to reach me: mail
+- 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
 
 <br />
