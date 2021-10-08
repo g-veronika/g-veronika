@@ -7,4 +7,4 @@
 - 🤔 I’m looking for a job in Paris
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail and LinkedIn
-- ⚡ Fun fact: Humans are the only animals that blush.
+- ⚡ Fun fact: Humans are the only animals that blush
