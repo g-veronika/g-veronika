@@ -9,6 +9,12 @@
 - 📫 How to reach me: mail and LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
 
+<br />
 
 
 ![](assets/imgs/gifs/giphy.gif)
+
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=dark)]
