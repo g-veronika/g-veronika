@@ -8,5 +8,3 @@
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail and LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
-
-https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn
