@@ -12,9 +12,12 @@
 <br />
 
 
-![](assets/imgs/gifs/giphy.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=dark)]
 
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=dark)]
+
+![](assets/imgs/gifs/giphy.gif)
+
+
