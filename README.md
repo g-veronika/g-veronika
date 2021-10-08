@@ -1,5 +1,5 @@
 ### Hi there, I'm Veronika 👋
-#### I love web developing  💻
+#### In love with web development  💻
 
 - ✈️ Born in Russia, living in France 
 - 🚀 I like to learn something new
