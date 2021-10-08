@@ -2,7 +2,7 @@
 #### In love with web development  💻
 
 - ✈️ Born in Russia, living in France 
-- 🚀 I like to learn something new
+- 🚀 Always learning
 - 🌱 I’m currently learning JavaScript frameworks
 - 🤔 I’m looking for a job in Paris
 - 💬 Ask me about anything 
