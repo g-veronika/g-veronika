@@ -12,12 +12,15 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=cobalt)
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=cobalt)</p>
+
+<p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /></p>
+
 
 
 <br />
 
 
-![](assets/imgs/gifs/giphy.gif)
+<p align="center">![](assets/imgs/gifs/giphy.gif)</p>
 
 
