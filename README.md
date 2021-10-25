@@ -1,4 +1,3 @@
-<br />
 <p align="center">
   <a href="https://www.linkedin.com/in/veronika-grebenshchikova-735ba8214/">
     <img align="center" height="27px" alt="Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
