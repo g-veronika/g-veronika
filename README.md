@@ -26,7 +26,8 @@
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
-- 
+
+
 <div align="center">
 
     I build with : 
