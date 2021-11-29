@@ -22,8 +22,8 @@
 - ✈️ Born in Russia, living in France 
 - 🚀 Always learning
 - 🌱 I’m currently learning JavaScript frameworks
-- 🤔 I’m looking for a job or intern as front-end developer in Paris
-- 💬 Ask me about anything 
+- 🤔 I’m looking for a job or intern as fullstack developer in Paris
+- 💬 Ask me about motivation ! 
 - 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
 
