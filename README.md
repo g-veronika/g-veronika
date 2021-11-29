@@ -16,7 +16,7 @@
 <br />
 
 <h1 align="center"> Hi there, I'm Veronika 👋 </h1>
-<h2>I love web development  💻</h2><br/><br/>
+<h2 align="center">I love web development  💻</h2><br/><br/>
 
 
 - ✈️ Born in Russia, living in France 
