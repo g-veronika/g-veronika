@@ -15,7 +15,7 @@
 </p>
 <br />
 
-### Hi there, I'm Veronika 👋
+<h1 align="center"> Hi there, I'm Veronika 👋 </h1>
 #### In love with web development  💻
 
 
