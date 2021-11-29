@@ -23,7 +23,7 @@
 - 🚀 Always learning
 - 🌱 I’m currently learning JavaScript frameworks and TypeScript as well
 - 🤔 I’m looking for a job or intern as fullstack developer in Paris
-- 💬 Ask me about motivation ! 
+- 💬 Ask me about anything 
 - 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
 
