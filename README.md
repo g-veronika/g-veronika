@@ -16,7 +16,7 @@
 <br />
 
 <h1 align="center"> Hi there, I'm Veronika 👋 </h1>
-#### In love with web development  💻
+<h2>I love web development  💻</h2><br/><br/>
 
 
 - ✈️ Born in Russia, living in France 
@@ -26,11 +26,13 @@
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
+<br/><br/>
 
 
 <div align="center">
 
     I build with : 
+  <br/>
   
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
