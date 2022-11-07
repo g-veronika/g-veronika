@@ -15,14 +15,14 @@
 </p>
 <br />
 
-<h1 align="center"> Hi there, I'm Veronika 👋 </h1>
-<h2 align="center">I love web development  💻</h2><br/><br/>
+<h1 align="center"> Hi there, I'm Veronika </h1>
+<h2 align="center">Front End Developer</h2><br/><br/>
 
 
 - ✈️ Born in Russia, living in France 
 - 🚀 Always learning
-- 🌱 I’m currently learning JavaScript frameworks and TypeScript as well
-- 🤔 I’m looking for a job or intern as fullstack developer in Paris
+- 🌱 I’m currently learning Vue.js
+- 🤔 I’m looking for a job as front end developer in Paris
 - 💬 Ask me about anything 
 - 📫 How to reach me: mail or LinkedIn
 - ⚡ Fun fact: Humans are the only animals that blush
