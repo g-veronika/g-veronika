@@ -17,12 +17,9 @@
 
 
 - ✈️ Born in Russia, living in France 
-- 🚀 Always learning
 - 🌱 I’m currently learning Vue.js
 - 🤔 I’m looking for a job as front end developer in Paris
-- 💬 Ask me about anything 
 - 📫 How to reach me: mail or LinkedIn
-- ⚡ Fun fact: Humans are the only animals that blush
 <br/><br/>
 
 
