@@ -27,7 +27,8 @@
 
     I build with : 
   <br/>
-[![Vue badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](#)
+
+[![Vue Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
