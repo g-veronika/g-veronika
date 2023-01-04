@@ -17,7 +17,7 @@
 
 
 - ✈️ Born in Russia, living in France 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js & TypeScript
 - 💻 Clean architecture
 - 🤔 I’m looking for a job as front end developer in Paris
 - 📫 How to reach me: gveronikaa@hotmail.com
