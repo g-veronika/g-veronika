@@ -54,7 +54,6 @@
 <br />
 <p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" /></p>
 
-
 <br />
 
 <p align="center"><img src=assets/imgs/gifs/giphy.gif /></p>
