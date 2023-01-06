@@ -50,7 +50,9 @@
 <br />
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=cobalt" /></p>
+
+<p align="center"><img align="center" alt="GitStat" src="https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=radical"/></p>
+
 
 <br />
 <p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" /></p>
