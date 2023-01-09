@@ -51,12 +51,13 @@
 <br />
 
 
-<p align="center"><img align="center" alt="GitStat" src="https://github-readme-stats.vercel.app/api?username=g-veronika&show_icons=true&theme=radical"/></p>
+<p align="center">
+      <span>
+      <img height="48%" src="https://github-readme-stats.vercel.app/api?username=g-veronika&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=g-veronika&layout=compact&langs_count=8&theme=radical"/>
+    </span>
+  </a>
+</p>
 
-
-<br />
-<p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" /></p>
-
-<br />
 
 <p align="center"><img src=assets/imgs/gifs/giphy.gif /></p>
