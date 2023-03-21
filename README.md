@@ -10,7 +10,7 @@
 <br />
 
 <h1 align="center"> Hi there, I'm Veronika </h1>
-<h2 align="center">Front End Developer</h2><br/><br/>
+<h2 align="center">Full Stack Developer</h2><br/><br/>
 
 
 - ✈️ Born in Russia, living in France 
