@@ -15,7 +15,6 @@
 
 - Born in Russia, living in France 
 - Vue.js & TypeScript & Node.js
-- Fullstack developer in Paris
 - How to reach me: gveronikaa@hotmail.com
 
 
