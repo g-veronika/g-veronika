@@ -13,10 +13,10 @@
 <h2 align="center">Full Stack Developer</h2><br/><br/>
 
 
-- ✈️ Born in Russia, living in France 
-- 🌱 I’m currently learning Vue.js & TypeScript
-- 🤔 I’m looking for a job as a web developer in Paris
-- 📫 How to reach me: gveronikaa@hotmail.com
+- Born in Russia, living in France 
+- Vue.js & TypeScript & Node.js
+- Fullstack developer in Paris
+- How to reach me: gveronikaa@hotmail.com
 
 
 <div align="center">
